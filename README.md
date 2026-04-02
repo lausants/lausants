@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas
 - 👯 Estou procurando colaborar em projetos Front/Back
 - 💬 Pergunte-me sobre 
-- 📫 Como entrar em contato comigo: laurasilva16@aluno.senai.br
+- 📫 Como entrar em contato comigo: laura.s.silva16@aluno.senai.br
 - 😄 Pronomes: she/her
 - ⚡ Curiosidade: Gosto de dormir 
 
@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lausants&theme=tokyonight" alt="Perfil do GitHub" /></p>
 
-![Snake animation](https://github.com/lausants/lausants/blob/output/github-contribution-grid-snake-dark.svg)## Hi there 👋
+![Snake animation](https://github.com/lausants/lausants/blob/output/github-contribution-grid-snake-dark.svg)
 
 
